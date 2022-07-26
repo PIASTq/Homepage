@@ -1,5 +1,5 @@
 # Homepage
-My name is Dawid Serafin and this is my first website project.
+My name is Dawid Serafin and this is my first website project
 ## Despription
 This site contains some informations about myself like my hobbies
 ## Demo
