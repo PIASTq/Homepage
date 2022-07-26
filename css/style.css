@@ -1,0 +1,42 @@
+.kontener {
+    background-color: #ccc;
+    padding: 20px 30px;
+}
+
+.naglowek {
+    text-align: center;
+    color: rgb(13, 3, 76);
+}
+
+.podnaglowek {
+    color: rgb(13, 3, 76);
+}
+
+.foto {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.wazne {
+    text-decoration: underline;
+}
+
+.zdjecie {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+.przycisk {
+    display: block;
+    margin: 30px auto;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(13, 3, 76);
+}
