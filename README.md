@@ -1,6 +1,6 @@
 # Homepage
-My name is Dawid Serafin and this is my first website project.
-## Despription
+My name is Dawid Serafin and this is my first website project
+## Description
 This site contains some informations about myself like my hobbies
 ## Demo
 [Site about me](https://piastq.github.io/Homepage/)
